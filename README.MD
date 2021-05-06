@@ -1,6 +1,6 @@
 ## Climate choice Test
 
-A program which can send meassage to a specified slack channel given it's authorization header
+A program which can send meassage to a specified slack channel given it's authorization header.  
 Before starting please add an .env file with following contents: 
 ```bash
 C02115KHLUT_TOKEN=secret-key
