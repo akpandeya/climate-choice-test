@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+    slack:
+        image: climate-choice-slack-bot
+        build: .
+        volumes:
+            - ./:/code
+
